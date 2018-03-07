@@ -2,7 +2,6 @@
   "name": "exif.reader",
   "version": "0.1.0",
   "private": true,
-  "description": "dies das",
   "author": "Christoph Planken",
   "dependencies": {
     "electron-is-dev": "^0.3.0",
