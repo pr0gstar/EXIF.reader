@@ -68,14 +68,17 @@ class App extends Component {
               </FloatingActionButton>
             </div>
             <br />
-            <img
-              id="image"
-              src={this.state.imgSrc}
-              style={{ width: "200px" }}
-              ref={img => {
-                this.previewImage = img;
-              }}
-            />
+            {this.state.imgSrc ? (
+              <img
+                id="image"
+                alt="Preview"
+                src={this.state.imgSrc}
+                style={{ width: "200px" }}
+                ref={img => {
+                  this.previewImage = img;
+                }}
+              />
+            ) : null}
             {this.state.exifData.length > 0 ? (
               <div>
                 <h3> Exif Information </h3>
