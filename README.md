@@ -2,7 +2,7 @@
 
 This tool reads the EXIF data of an image and displays them.
 
-![EXIF.reader Screenshot](https://github.com/pr0gstar/EXIF.reader/blob/develop/screenshots/screenshot001.png?raw=true)
+![EXIF.reader Screenshot](https://github.com/pr0gstar/EXIF.reader/blob/develop/demo/Demo001.gif?raw=true)
 
 <!-- ## Getting Started
 
