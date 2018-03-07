@@ -2,7 +2,7 @@
 
 This tool reads the EXIF data of an image and displays them.
 
-<img src="/demo/Demo001.gif?raw=true" alt="EXIFreader Demo Animation" width="500" />
+<img src="/demo/Demo001.gif?raw=true" alt="EXIFreader Demo Animation" width="640" />
 
 <!-- ## Getting Started
 
